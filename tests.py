@@ -4,7 +4,6 @@ Calificación del laboratorio
 """
 
 import sys
-import pandas as pd
 
 import preguntas
 
